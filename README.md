@@ -1,2 +1,2 @@
 # Digital-Clock
-click the link to preview site: http://127.0.0.1:5500/index.html
+click the link to preview site: https://preetam-sharma85.github.io/Digital-Clock/
